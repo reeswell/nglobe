@@ -1,0 +1,64 @@
+{
+  "Meta": {
+    "title": "next-app-starter"
+  },
+  "ProductFeatures": {
+    "h2": "Technische Spezifikationen",
+    "p": "Die Walnuss-Holzkartenablage ist präzisionsgefräst, um perfekt zu einem Stapel von Focus-Karten zu passen. Der pulverbeschichtete Stahlteiler trennt aktive Karten von neuen oder kann verwendet werden, um wichtige Aufgabenlisten zu archivieren.",
+    "description": "Entworfen von Good Goods, Inc.",
+    "material": "Massive Walnussbasis mit Seltenen-Erden-Magneten und pulverbeschichtetem Stahlkartendeckel",
+    "dimensions": "6,25\" x 3,55\" x 1,15\"",
+    "finish": "Handgeschliffen und mit natürlichem Öl behandelt",
+    "includes": "Holzkartenfach und 3 Nachfüllpackungen",
+    "considerations": "Hergestellt aus natürlichen Materialien. Maserung und Farbe variieren bei jedem Artikel.",
+    "technicalSpecifications": "Technische Spezifikationen",
+    "Origin": "Herkunft",
+    "Material": "Material",
+    "Dimensions": "Abmessungen",
+    "Finish": "Finish",
+    "Includes": "Enthält",
+    "Considerations": "Hinweise"
+  },
+  "Menu": {
+    "home": "Startseite",
+    "about": "Über",
+    "server": "Server",
+    "protected": "Geschützt",
+    "api": "API",
+    "admin": "Admin",
+    "me": "Ich"
+  },
+  "Locales": {
+    "en": "Englisch",
+    "de": "Deutsch",
+    "zh": "Chinesisch"
+  },
+  "About": {
+    "welcome": "Willkommen auf unserer mehrsprachigen Website",
+    "description": "Dies ist ein Beispiel für eine mehrsprachige Website, die mit Next.js 13 erstellt wurde. Die Website bietet folgende Funktionen:",
+    "features": {
+      "multiLanguageSupport": "Mehrsprachige Unterstützung: Die Website bietet mehrere Sprachversionen, und Benutzer können zwischen den Sprachen wechseln.",
+      "thirdPartyLogin": "Drittanbieter-Anmeldung: Benutzer können sich schnell mit Google und GitHub anmelden.",
+      "customLogin": "Benutzerdefinierte Anmeldung: Die Website bietet auch benutzerdefinierte Anmeldeverfahren, mit denen Benutzer sich mit ihren eigenen Konten anmelden können.",
+      "themeSwitching": "Themenumschaltung: Die Website unterstützt sowohl dunkle als auch helle Themen, und Benutzer können je nach Vorlieben zwischen ihnen wechseln.",
+      "responsiveDesign": "Responsives Design: Die Website ist so konzipiert, dass sie sich an verschiedene Bildschirmgrößen und Geräte anpasst."
+    },
+    "powerfulFeatures": "Mit den leistungsstarken Funktionen und der umfangreichen Entwicklerumgebung von Next.js 13 können wir problemlos moderne mehrsprachige Websites erstellen."
+  },
+  "Auth": {
+    "home": "Startseite",
+    "signInCardDescription": "Wählen Sie Ihre bevorzugte Anmeldemethode",
+    "signUpCardDescription": "Wählen Sie Ihre bevorzugte Registrieremethode",
+    "divisionText": "Oder fahren Sie fort mit",
+    "email": "E-Mail",
+    "password": "Passwort",
+    "signUp": "Registrieren",
+    "signIn": "Anmelden",
+    "signOut": "Ausloggen",
+    "alreadyHaveAnAccount": "Bereits ein Konto?",
+    "signUpText": "Haben Sie kein Konto?"
+  },
+  "Footer": {
+    "authorDescription": "Erstellt von"
+  }
+}

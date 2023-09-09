@@ -1,0 +1,65 @@
+{
+  "Meta": {
+    "title": "next-app-starter"
+  },
+  "ProductFeatures": {
+    "h2": "Technical Specifications",
+    "p": "The walnut wood card tray is precision milled to perfectly fit a stack of Focus cards. The powder coatedsteel divider separates active cards from new ones, or can be used to archive important task lists.",
+    "description": "Designed by Good Goods, Inc.",
+    "material": "Solid walnut base with rare earth magnets and powder coated steel card cover",
+    "dimensions": "6.25\" x 3.55\" x 1.15\"",
+    "finish": "Hand sanded and finished with natural oil",
+    "includes": "Wood card tray and 3 refill packs",
+    "considerations": "Made from natural materials. Grain and color vary with each item.",
+    "technicalSpecifications": "Technical Specifications",
+    "Origin": "Origin",
+    "Material": "Material",
+    "Dimensions": "Dimensions",
+    "Finish": "Finish",
+    "Includes": "Includes",
+    "Considerations": "Considerations"
+  },
+  "Menu": {
+    "home": "Home",
+    "about": "About",
+    "server": "Server",
+    "protected": "Protected",
+    "api": "API",
+    "admin": "Admin",
+    "me": "Me"
+  },
+  "Locales": {
+    "en": "en",
+    "de": "de",
+    "zh": "zh"
+  },
+  "About": {
+    "welcome": "Welcome to Our Multi-Language Website",
+    "description": "This is an example of a multi-language website built with Next.js 13. The website features the following functionalities:",
+    "features": {
+      "multiLanguageSupport": "Multi-Language Support: The website provides multiple language versions, and users can switch between languages.",
+      "thirdPartyLogin": "Third-Party Login: Users can log in quickly using Google and GitHub.",
+      "customLogin": "Custom Login: The website also offers custom login methods, allowing users to log in with their own accounts.",
+      "themeSwitching": "Theme Switching: The website supports both dark and light themes, and users can switch between them based on their preferences.",
+      "responsiveDesign": "Responsive Design: The website is designed to be responsive, so it will adapt to different screen sizes and devices."
+    },
+    "powerfulFeatures": "With the powerful features and rich ecosystem of Next.js 13, we can easily build modern multi-language websites."
+  },
+
+  "Auth": {
+    "home": "Home",
+    "signInCardDescription": "Choose your preferred sign in method",
+    "signUpCardDescription": "Choose your preferred sign up method",
+    "divisionText": "Or continue with",
+    "email": "Email",
+    "password": "Password",
+    "signUp": "Sign up",
+    "signIn": "Sign in",
+    "signOut": "Sign out",
+    "alreadyHaveAnAccount": "Already have an account?",
+    "signUpText": "Don't have an account?"
+  },
+  "Footer": {
+    "authorDescription": "Built by"
+  }
+}
