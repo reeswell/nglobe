@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-unsafe-member-access */
 import Providers from '@/components/Providers'
 import '@/style/global.css'
 import type { AbstractIntlMessages } from 'next-intl'
@@ -11,7 +12,6 @@ const inter = Inter({ subsets: ['latin'] })
 
 async function getMessages(locale: string) {
   try {
-    // eslint-disable-next-line @typescript-eslint/no-unsafe-member-access
     return (await import(`../../../locales/${locale}/index.json`))
       .default as AbstractIntlMessages
   } catch (error) {
